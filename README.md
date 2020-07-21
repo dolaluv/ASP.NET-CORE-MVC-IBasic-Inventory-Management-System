@@ -1,1 +1,1 @@
-# ASP.NET-CORE-MVC-IBasic-Inventory-Management-System
+# ASP.NET-CORE-MVC- Basic-Inventory-Management-System
